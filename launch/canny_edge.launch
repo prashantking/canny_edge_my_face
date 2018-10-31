@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="canny_edge_my_face" type="canny_edge_my_face_node" name="canny_edge_my_face_node" output="screen"/>
+</launch>
+
